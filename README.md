@@ -1,2 +1,3 @@
 ---- Pritam Pal
-----Currently persueing M.Tech in Cryptology and Security
+---- Currently persueing M.Tech in Cryptology and Security
+---- From Indian Statistical Institute
